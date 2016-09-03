@@ -8,9 +8,9 @@ html body.zhi {
 
 /*common*/
 
-/*.zhi .shameimaru-section {
+.zhi .shameimaru-section {
     display: none!important;
-}*/
+}
 .zhi .zh-profile-card .lower .operation .zg-btn,
 .zhi .follow-button.zg-follow.zg-btn-green,
 .zh-question-answer-form-wrap .submit-button {
