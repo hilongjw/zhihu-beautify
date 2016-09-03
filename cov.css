@@ -208,6 +208,12 @@ html .zhi .no-touchevents .zu-top-nav-userinfo:hover {
     display: none!important;
 }
 
+html .page-search .list .item {
+    background-color: #fff;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
 /*cov-user*/
 .cov-container {
     position: relative;
