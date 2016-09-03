@@ -14,14 +14,37 @@
 
 ## 功能
 
+### 首页时间线
+
 **before**
+
 ![](https://github.com/hilongjw/zhihu-beautify/blob/master/before.png)
-![](https://github.com/hilongjw/zhihu-beautify/blob/master/before-1.png)
-![](https://github.com/hilongjw/zhihu-beautify/blob/master/before-2.png)
+
 
 **after**
+
 ![](https://github.com/hilongjw/zhihu-beautify/blob/master/after.png)
+
+### 问题详情
+
+**before**
+
+![](https://github.com/hilongjw/zhihu-beautify/blob/master/before-1.png)
+
+
+**after**
+
 ![](https://github.com/hilongjw/zhihu-beautify/blob/master/after-1.png)
+
+### 用户主页
+
+**before**
+
+![](https://github.com/hilongjw/zhihu-beautify/blob/master/before-2.png)
+
+
+**after**
+
 ![](https://github.com/hilongjw/zhihu-beautify/blob/master/after-2.png)
 
 ## 安装
