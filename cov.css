@@ -57,6 +57,9 @@ html body.zhi {
     border: none;
     box-shadow: none;
 }
+.zhi .zu-top-nav-live-inner {
+    z-index: 100;
+}
 .zhi .zg-wrap.modal-shifting.clearfix {
 	background: #3cd088;
     height: 4rem;
@@ -95,6 +98,11 @@ html body.zhi {
 }
 .zhi .zu-top-add-question {
 	background: #2ac177;
+    border: none;
+    box-shadow: none;
+}
+html .zhi .zu-top-add-question:active {
+    background: #2db472;
     border: none;
     box-shadow: none;
 }
@@ -214,6 +222,18 @@ html .page-search .list .item {
     margin-top: 1rem;
 }
 
+/*inbox*/
+.zhi .zm-pm-item {
+    padding: 1rem;
+    min-height: 50px;
+    background: #fff;
+    border-top: none!important;
+    margin-bottom: 1rem;
+}
+.zhi .zg-btn-blue {
+    background: #3cd088;
+}
+
 /*cov-user*/
 .cov-container {
     position: relative;
@@ -231,7 +251,7 @@ html .page-search .list .item {
     bottom: -2em;
     background-size: cover;
     background-position: center;
-     -webkit-filter: blur(1rem);
+     -webkit-filter: blur(5rem);
 }
 .cov-user {
     position: absolute;
