@@ -139,7 +139,16 @@ html .zhi .no-touchevents .zu-top-nav-userinfo:hover {
 .zhi .top-nav-dropdown li a{
 	border-top: none;
 }
+/*msgbox*/
+.zhi .zu-noti7-popup.zu-top-nav-live {
+    border-radius: 2px;
+    border: none;
+}
 
+.zhi .zu-noti7-popup .zu-top-nav-live-inner {
+    border: none;
+    border-radius: 2px;
+}
 /*explore*/
 .zhi .tab-navs {
     background: #fff;
@@ -187,6 +196,13 @@ html .zhi .no-touchevents .zu-top-nav-userinfo:hover {
 }
 .zhi .zm-item-vote {
     top: 25px;
+}
+.zhi .zm-item-expanded .zm-votebar {
+    margin-left: -3rem;
+    padding-top: 1.5rem;
+}
+.zhi .zm-votebar.goog-scrollfloater-floating {
+    transform: translateX(-4rem);
 }
 
 /*answer*/
