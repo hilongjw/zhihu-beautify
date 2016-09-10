@@ -7,7 +7,9 @@ html body.zhi {
 }
 
 /*common*/
-
+.zhi #zh-recommend {
+    display: none;
+}
 .zhi .shameimaru-section {
     display: none!important;
 }
