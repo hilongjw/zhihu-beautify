@@ -13,6 +13,23 @@ html body.zhi {
 .zhi .shameimaru-section {
     display: none!important;
 }
+.zhi .tab-navs {
+    border-bottom: none;
+}
+.zhi .explore-tab .tab-navs .tab-nav>a {
+    border: none;
+}
+.zhi .explore-tab .tab-navs .tab-nav.active>a {
+    border-bottom: 2px solid #3cd088;
+    color: #2db472!important;
+}
+html.no-touchevents .explore-tab .tab-navs .tab-nav>a:hover {
+    background: none!important;
+}
+html.no-touchevents .tab-navs .tab-nav.active>a:hover {
+    border: none!important;
+    border-bottom: 2px solid rgb(121, 245, 185)!important;
+}
 .zhi .zh-profile-card .lower .operation .zg-btn,
 .zhi .follow-button.zg-follow.zg-btn-green,
 .zh-question-answer-form-wrap .submit-button {
